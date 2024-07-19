@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EDUTAP_INTERFACE
+</name>
+</assembly>
+<members>
+<member name="T:EDUTAP_INTERFACE.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._103775_edit_user_half_icon__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._103775_edit_user_half_icon__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._103780_profile_user_icon__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._103780_profile_user_icon__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._1110973_close_essential_set_x_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._1110973_close_essential_set_x_icon__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._1110973_close_essential_set_x_icon__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._1110973_close_essential_set_x_icon__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._186390_refresh_sync_icon__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._2202256_bin_cancel_delete_garbage_recycle_icon__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._326558_blank_check_box_icon__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._326691_all_select_icon__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._4064143_usb_connection_port_hardware_icon__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources._4064143_usb_connection_port_hardware_icon__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.arrow__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Binary_Builders_Logo__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Click_to_browse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Connected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Disconnect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.icons8_red_circle_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EDUTAP_INTERFACE.My.Resources.Resources.Spinner_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
