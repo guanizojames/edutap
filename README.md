@@ -4,6 +4,12 @@ EduTap is an educational platform designed to streamline learning, assessment, a
 
 ## 🚀 Features
 
+* VB.NET desktop application interface
+* Arduino microcontroller integration
+* Serial communication (read/write COM port)
+* Real-time sensor display
+* Device control via VB buttons (LEDs, motors, modules)
+* Error handling and connection status monitoring
 * User authentication and role management
 * Course creation and enrollment
 * Interactive lessons and modules
@@ -62,10 +68,11 @@ VITE_FIREBASE_KEY=your_firebase_key
 
 ## 📚 Tech Stack
 
-* **Frontend:** React / Vue / Next.js (adjust depending on project)
-* **Backend:** Node.js / Express / Django / Firebase
-* **Database:** MongoDB / PostgreSQL / Firebase Firestore
-* **Styling:** TailwindCSS / Bootstrap / SCSS
+* **Application:** Visual Basic .NET (VB.NET)
+* **Microcontroller:** Arduino (C/C++)
+* **Communication:** Serial (USB) communication between VB app and Arduino
+* **Database:** (Specify if using MySQL / SQLite / none)
+* **UI Framework:** Windows Forms
 
 ## 🧪 Testing
 
@@ -86,5 +93,3 @@ npm run test
 2. Create a new branch
 3. Commit changes
 4. Submit a pull request
-
-For questions or support, please contact the project maintainer.
